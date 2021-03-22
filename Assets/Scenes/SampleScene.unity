@@ -333,7 +333,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6367347096567956232, guid: cbc1dee9ec7768b40ab30dd8ee562df5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.87
+      value: -6.52
       objectReference: {fileID: 0}
     - target: {fileID: 6367347096567956232, guid: cbc1dee9ec7768b40ab30dd8ee562df5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -366,7 +366,7 @@ PrefabInstance:
     - target: {fileID: 6367347096567956340, guid: cbc1dee9ec7768b40ab30dd8ee562df5, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: fae15bf8733cfce4cb22f851fc20905b, type: 2}
+      objectReference: {fileID: 9100000, guid: 87794ba75d7e6f04893998170e057bb7, type: 2}
     - target: {fileID: 6367347096567956341, guid: cbc1dee9ec7768b40ab30dd8ee562df5, type: 3}
       propertyPath: m_Name
       value: Cube
